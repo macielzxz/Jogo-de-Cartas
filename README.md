@@ -49,7 +49,7 @@ Não precisa instalar nada.
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/macielzxz/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/macielzxz/Jogo-de-Cartas.git
    ```
 2. Abra a pasta do projeto.
 3. Dê dois cliques no `index.html` para abrir no navegador.
